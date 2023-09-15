@@ -12,7 +12,7 @@ const Footer = () => {
     return (
 
         <>
-            <div className='d-flex flex-column min-vh-100' style={{'color':'green', 'fontFamily':'cursive'}}>
+            <div className='d-flex flex-column min-vh-50' style={{'color':'green', 'fontFamily':'cursive'}}>
                 <footer className="bd-footer py-4 py-md-5 mt-5 mt-auto" style={mystyle} >
                     <div className="container py-4 py-md-5 px-4 px-md-3 text-body-secondary ">
                         <div className="row">

@@ -3,9 +3,9 @@ import React from 'react'
 export const Portfolio = () => {
   return (
     <>
-      <div className="container card-container" style={{'fontFamily':'cursive'}}>
+      <div className="container card-container">
         <div class="card text-center card-main">
-          <div class="card-header" style={{'color':'green'}}>
+          <div class="card-header">
             Projects
           </div>
           <div class="card-body">
@@ -25,7 +25,7 @@ export const Portfolio = () => {
 
 
         <div class="card text-center card-main card-inotebook">
-          <div class="card-header" style={{'color':'green'}}>
+          <div class="card-header">
             Projects
           </div>
           <div class="card-body">
