@@ -52,8 +52,8 @@ const Footer = () => {
                                 <h5>Social Media</h5>
                                 <ul className="list-unstyled">
                                     <a className='text-reset text-decoration-none mx-2' target="_blank" href="https://instagram.com/i_.nishant._" rel="noreferrer" ><SlSocialInstagram /></a>
-                                    <a className='text-reset text-decoration-none mx-2' target="_blank" href="https://www.linkedin.com/in/nishant-shekhada/" rel="noreferrer" ><SlSocialLinkedin /></a>
-                                    <a className='text-reset text-decoration-none mx-2' target="_blank" href="https://www.facebook.com"><SlSocialFacebook /></a>
+                                    <a className='text-reset text-decoration-none mx-2'  href="https://www.linkedin.com/in/nishant-shekhada/" rel="noreferrer" ><SlSocialLinkedin /></a>
+                                    <a className='text-reset text-decoration-none mx-2'  href="https://www.facebook.com"><SlSocialFacebook /></a>
                                     <a className='text-reset text-decoration-none mx-2' target="_blank" href="https://www.youtube.com/@nishantshekhada7906" rel="noreferrer" ><SlSocialYoutube /></a>
                                 </ul>
                             </div>
